@@ -1,0 +1,13 @@
+.site-heading-lower{
+    font-family: 'Courier New', Courier, monospace;
+}
+.mysubfont{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aquamarine !important;
+}
+.myimg{
+    width: 50% !important;
+}
+.myitalics{
+    font-style: italic;
+}
